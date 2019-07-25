@@ -1,0 +1,3 @@
+notifications:
+  slack: testdevopshq:iElHhr1L1FAEM1E2PNzKx3af
+travis encrypt "testdevopshq:iElHhr1L1FAEM1E2PNzKx3af" --add notifications.slack
